@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ishuverma
-- 👀 I’m interested in learning about creating simple ML models.
-- 💞️ I’m looking to collaborate on applying AI/ML on the IoT/edge data.
+- 👀 I’m interested in learning about LLMs.
+- 💞️ I’m looking to collaborate on combining LLMs with other tools/agents to solve domain specific problems.
 
 <!---
 ishuverma/ishuverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
